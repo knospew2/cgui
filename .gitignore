@@ -1,0 +1,13 @@
+
+# swap files:
+*.swp
+
+# out files:
+*.o
+
+# main executable
+main
+
+
+#DS store
+.DS_STORE
