@@ -1,6 +1,6 @@
 CC=gcc
-DEPS=main.h msleep.h sprite.h salloc.h
-OBJ=main.o msleep.o sprite.o salloc.o
+DEPS=main.h msleep.h sprite.h salloc.h keys.h env.h mouse.h 
+OBJ=main.o msleep.o sprite.o salloc.o keys.o env.o mouse.o 
 CFLAGS=
 SDL=SDL2-2.0.0
 
