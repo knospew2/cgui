@@ -8,7 +8,5 @@
 #include "env.h"
 #include "keys.h"
 #include "mouse.h"
-#include "value.h"
-#include "tokenizer.h"
 
 #endif
